@@ -6,8 +6,6 @@ import {
 } from "react-router-dom";
 import Home from './components/Home/Home';
 import MovieDitail from './components/MovieDitail/MovieDitail';
-import Movies from './components/Movies/Movies';
-import NavBar from './components/NavBar/NavBar';
 
 
 function App() {
