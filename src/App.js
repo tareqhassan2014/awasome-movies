@@ -24,10 +24,6 @@ function App() {
           <Home />
         </Route>
       </Switch>
-
-      <Movies />
-      <NavBar />
-      <MovieDitail />
     </Router>
   );
 }
